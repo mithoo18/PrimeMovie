@@ -27,5 +27,9 @@ $ git remote remove origin
 </tr>
 </table>
 
+#### More Images
+
+<a href = "https://github.com/mithoo18/PrimeMovie/tree/master/gitimg">Images</a>
+
 #### Developed with ❤ by @Devanshu || mithoo18.
 
