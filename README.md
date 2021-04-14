@@ -15,6 +15,14 @@ $ git remote remove origin
 
 ---
 
+
+### About Application
+
+- Technology Used :-Android Studio,Material Design,Firebase,Jetpack,Rest(Retrofit),AWS
+- Feature :- Watch Movies,Scroll Different Tabs Like (Kids,Tv Show,etc..),Increase Speed,Forward,Different Views
+- Screen:- Splash Screen,Main Screen,Tabs
+
+
 ### How it looks 
 <table>
 <tr>
